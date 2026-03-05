@@ -401,18 +401,38 @@ Include license notice in copies.
 
 
 
-# 📬 Contact
+ # 📬 Developing Team
 
-**Lead Developer**
-Aayush Sharma
-[aayushsharma80104@gmail.com]
-GitHub:Ayushcodesaver
+### 1. Aaneya Shokken
+
+GitHub: https://github.com/aaneya/huntrix
+
+### 2. Aayush Sharma
+
+Email: [aayushsharma80104@gmail.com](mailto:aayushsharma80104@gmail.com)
+GitHub: https://github.com/Ayushcodesaver
+
+### 3. Bhragender Kumar Singh
+
+Email: [Bhragender06@gmail.com](mailto:Bhragender06@gmail.com)
+GitHub: https://github.com/Bhragender06
+
+### 4. Kaashvi
+
+Email: [kaashvigupta00@gmail.com](mailto:kaashvigupta00@gmail.com)
+GitHub: https://github.com/kaashvi5
+
+### 5. Sparsh Gumber
+
+Email: [sparshhumber060906@gmail.com](mailto:sparshhumber060906@gmail.com)
+GitHub: https://github.com/Sparshgumber060906
 
 ---
 
 <p align="center">
 ⭐ If you found this project useful, please star the repository!
 </p>
+
 
 
 

@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 
 # 🏥 MediVault
@@ -399,7 +399,7 @@ You are free to:
 
 Include license notice in copies.
 
----
+
 
 # 📬 Contact
 
@@ -414,6 +414,6 @@ GitHub:Ayushcodesaver
 ⭐ If you found this project useful, please star the repository!
 </p>
 
-=======
+
 
 

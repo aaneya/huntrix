@@ -405,6 +405,7 @@ Include license notice in copies.
 
 ### 1. Aaneya Shokken
 
+Email : [aaneyashokeen@gmail.com](mailto:aaneyashokeen@gmail.com)
 GitHub: https://github.com/aaneya/huntrix
 
 ### 2. Aayush Sharma
@@ -432,6 +433,7 @@ GitHub: https://github.com/Sparshgumber060906
 <p align="center">
 ⭐ If you found this project useful, please star the repository!
 </p>
+
 
 
 
